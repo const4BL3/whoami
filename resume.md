@@ -1,7 +1,5 @@
 **Clinton Billedeaux**
 
-233 Putters Lane, Slidell, LA  70460
-
 985-707-6294
 
 cbilledeaux@gmail.com
