@@ -19,6 +19,7 @@ Analytical, ordered, and structure driven software testing professional.
 ## CERTIFICATION
 
 AWS Certified Developer – Associate ---------------------- Certification Date:  December 15, 2018
+
 Professional Scrum Master I ------------------------------ Certification Date:  December 23, 2018
 
 ## EXPERIENCE
