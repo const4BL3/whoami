@@ -16,19 +16,29 @@ Analytical, ordered, and structure driven software testing professional.
 -	Effective verbal and written communicator
 -	Competent in C#, JavaScript, Node.js, and GitHub 
 
-## EDUCATION
-
-Southeastern Louisiana University, Hammond, LA	---------------------- Anticipated Graduation:  August 2020
-
-Bachelor of General Studies
-
 ## CERTIFICATION
 
 AWS Certified Developer – Associate ---------------------- Certification Date:  December 15, 2018
+Professional Scrum Master I ------------------------------ Certification Date:  December 23, 2018
 
 ## EXPERIENCE
 
-**Software Quality Assurance Engineer**		----------------------	October 2016 to Present
+**Senior Software Engineer** -----------------------------------  January 2021 to Present
+
+Watch Systems, Covington, LA
+- API development
+- Participate in planning sessions
+- Participate in engineering planning
+- Code Reviews
+
+**Web Developer** ----------------------------------------------  July 2020 to January 2021
+
+Watch Systems, Covington, LA
+- Debugging and patching
+- Troubleshoot issues from customer support
+- Update and containerize websites
+
+**Software Quality Assurance Engineer**		----------------------	October 2016 to June 2020
 
 GE Aviation, New Orleans, LA
 -	Participate in feature analysis and task estimation
